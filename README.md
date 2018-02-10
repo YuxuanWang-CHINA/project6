@@ -18,4 +18,4 @@ YuxuanWang-CHINA
 
 	Sohu的ip获取【免费】；
 
-	jquery；
+	jquery。
